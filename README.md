@@ -1,5 +1,5 @@
 
-## 📬 Get in touch.......
+## 📬 Get in touch......
 
 
 
