@@ -1,7 +1,8 @@
+<h1 align="center">Hi , I'm Kelvin Obiri</h1>
+<h3 align="center">{ Software Engineer }</h3>
+
 
 ## 📬 Get in touch......
-
-
 
 
 - Gmail:  kelvinobiri313@gmail.com 
