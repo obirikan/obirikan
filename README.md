@@ -2,7 +2,7 @@
 <h3 align="center">{__Software Engineer__}</h3>
 
 
-## Get in touch.......
+## Get in touch........
 
 
 📬Gmail: kelvinobiri313@gmail.com 
