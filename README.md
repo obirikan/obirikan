@@ -46,8 +46,6 @@
 
 
 
-
-
 ### Socials
 
 <p align="left" style='padding:10px'>
@@ -62,17 +60,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 
-<!-- ## &#x1f4c8; My GitHub Stats
-
- <div align="left">
-<img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=dollarstir&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
-</div>
-<br/>
- 
 
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=dollarstir&theme=dracula" />
-<br/> -->
+
 
 
 
@@ -81,7 +71,6 @@
 <a href="http://www.github.com/obirikan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=obirikan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-....
 
 
 
