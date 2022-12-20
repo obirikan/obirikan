@@ -68,6 +68,11 @@
 
 <b>My GitHub Stats</b>
 
+<p>
+ <a href="https://github.com/obirikan"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=obirikan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+</p>   
+
+
 <a href="http://www.github.com/obirikan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=obirikan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
