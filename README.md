@@ -5,8 +5,9 @@
 ## Get in touch......
 
 
-📬Gmail: kelvinobiri313@gmail.com 
-📬WhatsApp:+233202180726
+ <a>📬Gmail: kelvinobiri313@gmail.com </a>
+ <br/>
+ <a>📬WhatsApp:0202180726</a>
  
 
 
