@@ -2,12 +2,12 @@
 <h3 align="center">{ Software Engineer && Computer Scientist }</h3>
 
 
-## Get in touch..................
+## Get in touch.....
 
 
- <a>📬Gmail: kelvinobiri313@gmail.com </a>
+ <a>📬Gmail:kelvinobiri313@gmail.com</a>
  <br/><br/>
- <a>📬 WhatsApp: 0202180726 </a>
+ <a>📬 WhatsApp:0202180726</a>
  
 
 
