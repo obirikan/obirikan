@@ -7,7 +7,7 @@
 
  <a>📬Gmail:kelvinobiri313@gmail.com</a>
  <br/>
- <a>📬 WhatsApp:0202180726</a>
+ <a>📬 WhatsApp || call:0202180726 || 0594328985</a>
  
 
 
