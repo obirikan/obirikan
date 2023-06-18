@@ -10,8 +10,8 @@
  <a>📬 WhatsApp:0202180726</a>
  
 
-<!-- 
-![Profile views](https://gpvc.arturio.dev/obirikan)   -->
+
+![Profile views](https://gpvc.arturio.dev/obirikan)  
  [![committers.top badge](https://user-badge.committers.top/ghana_private/obirikan.svg)](https://user-badge.committers.top/ghana_private/obirikan)
 
 ### Skills
