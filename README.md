@@ -11,7 +11,6 @@
  
 
 
-![Profile views](https://gpvc.arturio.dev/obirikan)  
  [![committers.top badge](https://user-badge.committers.top/ghana_private/obirikan.svg)](https://user-badge.committers.top/ghana_private/obirikan)
 
 ### Skills
