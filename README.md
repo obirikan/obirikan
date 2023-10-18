@@ -67,11 +67,6 @@
 </p>   
 
 
-<a href="http://www.github.com/obirikan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=obirikan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-[![obirikan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=obirikan&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 
 
