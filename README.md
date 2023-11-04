@@ -3,8 +3,6 @@
 
  
 #Get in touch 
-
-
  <a>📬Gmail:kelvinobiri313@gmail.com</a>
  <br/>
  <a>📬 WhatsApp:0202180726</a>
