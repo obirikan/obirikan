@@ -61,7 +61,7 @@
 <b>My GitHub Stats</b>
 
 <p>
- <a href="https://github.com/obirikan"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=obirikan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+<!--  <a href="https://github.com/obirikan"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=obirikan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a> -->
 </p>   
 
 
