@@ -1,4 +1,4 @@
-<h1 align="center">Hi ,I'm Kelvin Nana Codjo  Obiri </h1>
+<h1 align="center">Hi ,I'm Kelvin Nana Codjo obiri </h1>
 <h3 align="center">{ Software Engineer }</h3>
 
  
