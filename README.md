@@ -1,11 +1,5 @@
 <h1 align="center">Hi ,I'm Kelvin Nana Codjo obiri </h1>
 <h3 align="center">{ Software Engineer }</h3>
-
- 
-#Get in touch 
- <a>📬Gmail:kelvinobiri313@gmail.com</a>
- <br/>
- <a>📬 WhatsApp:0202180726</a>
  
 
 
