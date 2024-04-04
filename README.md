@@ -3,7 +3,7 @@
  
 
 
- [![committers.top badge](https://user-badge.committers.top/ghana_private/obirikan.svg)](https://user-badge.committers.top/ghana_private/obirikan)
+<!-- [![committers.top badge](https://user-badge.committers.top/ghana_private/obirikan.svg)](https://user-badge.committers.top/ghana_private/obirikan)-->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=obirikan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
