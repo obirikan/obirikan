@@ -29,9 +29,9 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+[![](https://visitcount.itsvg.in/api?id=obirikan&icon=0&color=0)](https://visitcount.itsvg.in)
 --> 
 
-[![](https://visitcount.itsvg.in/api?id=obirikan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <a href="http://www.github.com/obirikan"><img src="https://github-readme-activity-graph.vercel.app/graph?username=obirikan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
