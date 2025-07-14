@@ -41,27 +41,31 @@
 ### 🎨 **Frontend Development**
 <table>
 <tr>
-<td align="center" width="16.66%">
+<td align="center" width="14.28%">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
 <br><strong>React</strong>
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br><strong>Next.js</strong>
+</td>
+<td align="center" width="14.28%">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
 <br><strong>React Native</strong>
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="14.28%">
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
 <br><strong>TailwindCSS</strong>
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="14.28%">
 <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material-UI" />
 <br><strong>Material-UI</strong>
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="14.28%">
 <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" width="48" height="48" alt="Chakra UI" />
 <br><strong>Chakra UI</strong>
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="14.28%">
 <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48" height="48" alt="Ant Design" />
 <br><strong>Ant Design</strong>
 </td>
@@ -90,6 +94,54 @@
 <td align="center" width="20%">
 <img src="https://socket.io/images/logo.svg" width="48" height="48" alt="Socket.io" />
 <br><strong>Socket.io</strong>
+</td>
+</tr>
+</table>
+
+### 🗄️ **Databases**
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<br><strong>PostgreSQL</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br><strong>Firebase</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br><strong>MySQL</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br><strong>Redis</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+<br><strong>SQLite</strong>
+</td>
+</tr>
+</table>
+
+### 📡 **Message Queues & Streaming**
+<table>
+<tr>
+<td align="center" width="33.33%">
+<img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" width="48" height="48" alt="RabbitMQ" />
+<br><strong>RabbitMQ</strong>
+</td>
+<td align="center" width="33.33%">
+<img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Apache Kafka" />
+<br><strong>Apache Kafka</strong>
+</td>
+<td align="center" width="33.33%">
+<img src="https://redis.io/images/redis-white.png" width="48" height="48" alt="Redis Pub/Sub" />
+<br><strong>Redis Pub/Sub</strong>
 </td>
 </tr>
 </table>
@@ -127,31 +179,35 @@
 ### 🤖 **Data Science & Machine Learning**
 <table>
 <tr>
-<td align="center" width="14.28%">
+<td align="center" width="12.5%">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
 <br><strong>TensorFlow</strong>
 </td>
-<td align="center" width="14.28%">
+<td align="center" width="12.5%">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br><strong>PyTorch</strong>
+</td>
+<td align="center" width="12.5%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="Keras" />
 <br><strong>Keras</strong>
 </td>
-<td align="center" width="14.28%">
+<td align="center" width="12.5%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
 <br><strong>Scikit-learn</strong>
 </td>
-<td align="center" width="14.28%">
+<td align="center" width="12.5%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
 <br><strong>Pandas</strong>
 </td>
-<td align="center" width="14.28%">
+<td align="center" width="12.5%">
 <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
 <br><strong>NumPy</strong>
 </td>
-<td align="center" width="14.28%">
+<td align="center" width="12.5%">
 <img src="https://matplotlib.org/_static/images/logo2.svg" width="48" height="48" alt="Matplotlib" />
 <br><strong>Matplotlib</strong>
 </td>
-<td align="center" width="14.28%">
+<td align="center" width="12.5%">
 <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="48" height="48" alt="OpenCV" />
 <br><strong>OpenCV</strong>
 </td>
@@ -174,16 +230,16 @@
 <br><strong>JWT</strong>
 </td>
 <td align="center" width="16.66%">
-<img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" width="48" height="48" alt="RabbitMQ" />
-<br><strong>RabbitMQ</strong>
-</td>
-<td align="center" width="16.66%">
 <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
 <br><strong>Nginx</strong>
 </td>
 <td align="center" width="16.66%">
 <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
 <br><strong>Notion</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br><strong>Postman</strong>
 </td>
 </tr>
 </table>
@@ -198,12 +254,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=obirikan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=obirikan" alt="GitHub Streak" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=obirikan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </td>
 </tr>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obirikan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=obirikan" alt="GitHub Streak" alt="Top Languages" width="100%" />
 </td>
 <td width="50%">
 <img src="https://github-profile-trophy.vercel.app/?username=obirikan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=3" alt="GitHub Trophies" width="100%" />
@@ -269,14 +325,18 @@ const kelvin = {
     location: "Ghana 🇬🇭",
     languages: ["Python", "JavaScript", "HTML", "CSS"],
     frameworks: {
-        frontend: ["React", "React Native", "TailwindCSS"],
+        frontend: ["React", "Next.js", "React Native", "TailwindCSS"],
         backend: ["Node.js", "Express", "FastAPI", "Flask"],
-        dataScience: ["TensorFlow", "Pandas", "NumPy", "Scikit-learn"]
+        dataScience: ["TensorFlow", "PyTorch", "Pandas", "NumPy", "Scikit-learn"]
     },
-    databases: ["Firebase", "MongoDB"],
+    databases: {
+        sql: ["PostgreSQL", "MySQL", "SQLite"],
+        nosql: ["MongoDB", "Firebase", "Redis"]
+    },
+    messageQueues: ["RabbitMQ", "Apache Kafka", "Redis Pub/Sub"],
     cloud: ["Vercel", "Google Cloud", "Heroku", "Netlify"],
-    tools: ["Docker", "Git", "Nginx", "JWT"],
-    currentlyLearning: ["Advanced ML", "Cloud Architecture", "System Design"],
+    tools: ["Docker", "Git", "Nginx", "JWT", "Postman"],
+    currentlyLearning: ["Advanced ML", "Cloud Architecture", "System Design", "Microservices"],
     openToWork: true,
     funFact: "I debug with console.log() and I'm proud of it! 🐛"
 };
