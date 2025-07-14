@@ -1,7 +1,6 @@
 <div align="center">
-
 <!-- Data Science Themed Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,5,25&height=220&section=header&text=Kelvin%20Nana%20Codjo%20Obiri&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Backend%20Engineer%20%7C%20ML%20Engineer&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,5,25&height=220&section=header&text=Kelvin%20Nana%20Codjo%20Obiri&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20Backend%20Engineer&descAlignY=55&descSize=16"/>
 
 <!-- Advanced Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=800&lines=Transforming+data+into+actionable+insights;Building+scalable+backend+systems;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;Python+%7C+FastAPI+%7C+TensorFlow+%7C+PyTorch;Always+experimenting+with+new+algorithms+🧠" alt="Typing SVG" />
