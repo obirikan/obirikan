@@ -1,15 +1,13 @@
 <div align="center">
 
-<!-- Header with animated background -->
+<!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Kelvin%20Nana%20Codjo%20Obiri&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Aspiring%20Data%20Scientist&descAlignY=55&descSize=18"/>
 
-<!-- Typing animation -->
-<div style="margin: 2rem 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&background=00000000&center=true&vCenter=true&width=700&lines=Building+innovative+solutions+with+code;Full+Stack+%7C+Data+Science+%7C+Machine+Learning;Always+learning%2C+always+growing+%F0%9F%9A%80;Open+to+new+opportunities!" alt="Typing SVG" />
-</div>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&background=00000000&center=true&vCenter=true&width=700&lines=Building+innovative+solutions+with+code;Full+Stack+%7C+Data+Science+%7C+Machine+Learning;Always+learning%2C+always+growing+%F0%9F%9A%80;Open+to+new+opportunities!" alt="Typing SVG" />
 
-<!-- Profile views and followers -->
-<p align="center">
+<!-- Profile Stats -->
+<p>
   <img src="https://komarev.com/ghpvc/?username=obirikan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/obirikan?label=Followers&style=social" alt="GitHub followers" />
 </p>
@@ -18,174 +16,269 @@
 
 ## 🛠️ **Technology Stack**
 
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br>
+### 💻 **Programming Languages**
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br><strong>CSS3</strong>
+</td>
+</tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🎨 **Frontend Development**
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+<br><strong>React Native</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
+<br><strong>TailwindCSS</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material-UI" />
+<br><strong>Material-UI</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" width="48" height="48" alt="Chakra UI" />
+<br><strong>Chakra UI</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48" height="48" alt="Ant Design" />
+<br><strong>Ant Design</strong>
+</td>
+</tr>
+</table>
 
-</details>
+### ⚙️ **Backend Development**
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+<br><strong>Express.js</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br><strong>FastAPI</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+<br><strong>Flask</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://socket.io/images/logo.svg" width="48" height="48" alt="Socket.io" />
+<br><strong>Socket.io</strong>
+</td>
+</tr>
+</table>
 
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
+### ☁️ **Cloud & Deployment**
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br><strong>Vercel</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br><strong>Firebase</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" />
+<br><strong>Google Cloud</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku" />
+<br><strong>Heroku</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
+<br><strong>Netlify</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://render.com/images/logo-dark.svg" width="48" height="48" alt="Render" />
+<br><strong>Render</strong>
+</td>
+</tr>
+</table>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+### 🤖 **Data Science & Machine Learning**
+<table>
+<tr>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br><strong>TensorFlow</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="Keras" />
+<br><strong>Keras</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+<br><strong>Scikit-learn</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+<br><strong>Pandas</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
+<br><strong>NumPy</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://matplotlib.org/_static/images/logo2.svg" width="48" height="48" alt="Matplotlib" />
+<br><strong>Matplotlib</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="48" height="48" alt="OpenCV" />
+<br><strong>OpenCV</strong>
+</td>
+</tr>
+</table>
 
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & Deployment</b></summary>
-<br>
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🤖 Data Science & Machine Learning</b></summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔧 Tools & Technologies</b></summary>
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-</details>
+### 🔧 **Tools & Technologies**
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br><strong>Docker</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br><strong>Git</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://jwt.io/img/pic_logo.svg" width="48" height="48" alt="JWT" />
+<br><strong>JWT</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" width="48" height="48" alt="RabbitMQ" />
+<br><strong>RabbitMQ</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+<br><strong>Nginx</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
+<br><strong>Notion</strong>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 **GitHub Statistics**
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=obirikan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=obirikan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obirikan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🏆 **Achievements & Contributions**
-
-<div align="center">
-  
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=obirikan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
-
-<!-- Top Contributed Repositories -->
-<img src="https://github-contributor-stats.vercel.app/api?username=obirikan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-
-</div>
-
----
-
-## 📈 **Contribution Activity**
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=obirikan&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area_color=1a1b27&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🎯 **What I'm Up To**
-
-<table align="center">
+<table>
 <tr>
 <td width="50%">
-
-### 🔭 Currently Working On
-- 🤖 Advanced ML projects
-- 🌐 Full-stack applications
-- 📊 Data visualization tools
-- 🚀 Open source contributions
-
+<img src="https://github-readme-stats.vercel.app/api?username=obirikan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
 </td>
 <td width="50%">
-
-### 🌱 Currently Learning
-- ☁️ Cloud architecture patterns
-- 🧠 Deep learning frameworks
-- 📈 Advanced data analytics
-- 🔧 DevOps best practices
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=obirikan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obirikan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="100%" />
+</td>
+<td width="50%">
+<img src="https://github-profile-trophy.vercel.app/?username=obirikan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=3" alt="GitHub Trophies" width="100%" />
 </td>
 </tr>
 </table>
 
+---
+
+## 🏆 **Top Contributions**
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=obirikan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="100%" />
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 **Activity Graph**
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=obirikan&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area_color=1a1b27&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 **Current Focus**
+
+<table>
+<tr>
+<td width="33.33%" align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
+<h3>🔭 Working On</h3>
+<p>• Advanced ML projects<br>• Full-stack applications<br>• Data visualization tools<br>• Open source contributions</p>
+</td>
+<td width="33.33%" align="center">
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="60">
+<h3>🌱 Learning</h3>
+<p>• Cloud architecture patterns<br>• Deep learning frameworks<br>• Advanced data analytics<br>• DevOps best practices</p>
+</td>
+<td width="33.33%" align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<h3>💬 Ask Me About</h3>
+<p>• Web development<br>• Data science<br>• Machine learning<br>• Tech career advice</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 **Code Summary**
+
 ```javascript
 const kelvin = {
     pronouns: "he/him",
-    code: ["Python", "JavaScript", "HTML", "CSS"],
-    askMeAbout: ["web dev", "data science", "machine learning", "tech"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "React Native"],
-            css: ["TailwindCSS", "Material-UI", "Chakra UI"]
-        },
-        backEnd: {
-            python: ["FastAPI", "Flask"],
-            js: ["Node.js", "Express"]
-        },
-        dataScience: ["TensorFlow", "Pandas", "NumPy", "Scikit-learn"],
-        databases: ["Firebase", "MongoDB"],
-        misc: ["Docker", "Socket.IO", "JWT"]
+    location: "Ghana 🇬🇭",
+    languages: ["Python", "JavaScript", "HTML", "CSS"],
+    frameworks: {
+        frontend: ["React", "React Native", "TailwindCSS"],
+        backend: ["Node.js", "Express", "FastAPI", "Flask"],
+        dataScience: ["TensorFlow", "Pandas", "NumPy", "Scikit-learn"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building scalable applications and exploring AI/ML",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    databases: ["Firebase", "MongoDB"],
+    cloud: ["Vercel", "Google Cloud", "Heroku", "Netlify"],
+    tools: ["Docker", "Git", "Nginx", "JWT"],
+    currentlyLearning: ["Advanced ML", "Cloud Architecture", "System Design"],
+    openToWork: true,
+    funFact: "I debug with console.log() and I'm proud of it! 🐛"
 };
+
+console.log("Thanks for visiting my profile! 🚀");
