@@ -1,344 +1,298 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Kelvin%20Nana%20Codjo%20Obiri&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Aspiring%20Data%20Scientist&descAlignY=55&descSize=18"/>
+<!-- Data Science Themed Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,5,25&height=220&section=header&text=Kelvin%20Nana%20Codjo%20Obiri&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Backend%20Engineer%20%7C%20ML%20Engineer&descAlignY=55&descSize=16"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&background=00000000&center=true&vCenter=true&width=700&lines=Building+innovative+solutions+with+code;Full+Stack+%7C+Data+Science+%7C+Machine+Learning;Always+learning%2C+always+growing+%F0%9F%9A%80;Open+to+new+opportunities!" alt="Typing SVG" />
+<!-- Advanced Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=800&lines=Transforming+data+into+actionable+insights;Building+scalable+backend+systems;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;Python+%7C+FastAPI+%7C+TensorFlow+%7C+PyTorch;Always+experimenting+with+new+algorithms+🧠" alt="Typing SVG" />
 
-<!-- Profile Stats -->
+<!-- Professional Stats -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=obirikan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/obirikan?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=obirikan&label=Profile%20Views&color=1e90ff&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/obirikan?label=Followers&style=flat-square&color=1e90ff" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20Backend-brightgreen?style=flat-square" alt="Focus" />
 </p>
 
 ---
 
-## 🛠️ **Technology Stack**
+## 🧠 **Core Competencies**
 
-### 💻 **Programming Languages**
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><strong>Python</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-<br><strong>JavaScript</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br><strong>HTML5</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br><strong>CSS3</strong>
-</td>
-</tr>
-</table>
-
-### 🎨 **Frontend Development**
-<table>
-<tr>
-<td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br><strong>React</strong>
-</td>
-<td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br><strong>Next.js</strong>
-</td>
-<td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-<br><strong>React Native</strong>
-</td>
-<td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
-<br><strong>TailwindCSS</strong>
-</td>
-<td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material-UI" />
-<br><strong>Material-UI</strong>
-</td>
-<td align="center" width="14.28%">
-<img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" width="48" height="48" alt="Chakra UI" />
-<br><strong>Chakra UI</strong>
-</td>
-<td align="center" width="14.28%">
-<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48" height="48" alt="Ant Design" />
-<br><strong>Ant Design</strong>
-</td>
-</tr>
-</table>
-
-### ⚙️ **Backend Development**
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br><strong>Node.js</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
-<br><strong>Express.js</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-<br><strong>FastAPI</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-<br><strong>Flask</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://socket.io/images/logo.svg" width="48" height="48" alt="Socket.io" />
-<br><strong>Socket.io</strong>
-</td>
-</tr>
-</table>
-
-### 🗄️ **Databases**
-<table>
-<tr>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-<br><strong>PostgreSQL</strong>
-</td>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br><strong>MongoDB</strong>
-</td>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br><strong>Firebase</strong>
-</td>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br><strong>MySQL</strong>
-</td>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-<br><strong>Redis</strong>
-</td>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-<br><strong>SQLite</strong>
-</td>
-</tr>
-</table>
-
-### 📡 **Message Queues & Streaming**
-<table>
-<tr>
-<td align="center" width="33.33%">
-<img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" width="48" height="48" alt="RabbitMQ" />
-<br><strong>RabbitMQ</strong>
-</td>
-<td align="center" width="33.33%">
-<img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Apache Kafka" />
-<br><strong>Apache Kafka</strong>
-</td>
-<td align="center" width="33.33%">
-<img src="https://redis.io/images/redis-white.png" width="48" height="48" alt="Redis Pub/Sub" />
-<br><strong>Redis Pub/Sub</strong>
-</td>
-</tr>
-</table>
-
-### ☁️ **Cloud & Deployment**
-<table>
-<tr>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-<br><strong>Vercel</strong>
-</td>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br><strong>Firebase</strong>
-</td>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" />
-<br><strong>Google Cloud</strong>
-</td>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku" />
-<br><strong>Heroku</strong>
-</td>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
-<br><strong>Netlify</strong>
-</td>
-<td align="center" width="16.66%">
-<img src="https://render.com/images/logo-dark.svg" width="48" height="48" alt="Render" />
-<br><strong>Render</strong>
-</td>
-</tr>
-</table>
-
-### 🤖 **Data Science & Machine Learning**
+### 📊 **Data Science & Machine Learning**
 <table>
 <tr>
 <td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="12.5%">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="TensorFlow" />
 <br><strong>TensorFlow</strong>
 </td>
 <td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch" />
 <br><strong>PyTorch</strong>
 </td>
 <td align="center" width="12.5%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="Keras" />
-<br><strong>Keras</strong>
-</td>
-<td align="center" width="12.5%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="Scikit-learn" />
 <br><strong>Scikit-learn</strong>
 </td>
 <td align="center" width="12.5%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
 <br><strong>Pandas</strong>
 </td>
 <td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
+<img src="https://skillicons.dev/icons?i=numpy" width="50" height="50" alt="NumPy" />
 <br><strong>NumPy</strong>
 </td>
 <td align="center" width="12.5%">
-<img src="https://matplotlib.org/_static/images/logo2.svg" width="48" height="48" alt="Matplotlib" />
+<img src="https://matplotlib.org/_static/images/logo2.svg" width="50" height="50" alt="Matplotlib" />
 <br><strong>Matplotlib</strong>
 </td>
 <td align="center" width="12.5%">
-<img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="48" height="48" alt="OpenCV" />
-<br><strong>OpenCV</strong>
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="50" height="50" alt="Seaborn" />
+<br><strong>Seaborn</strong>
 </td>
 </tr>
 </table>
 
-### 🔧 **Tools & Technologies**
+### ⚙️ **Backend & API Development**
 <table>
 <tr>
 <td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI" />
+<br><strong>FastAPI</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask" />
+<br><strong>Flask</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express.js" />
+<br><strong>Express.js</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=graphql" width="50" height="50" alt="GraphQL" />
+<br><strong>GraphQL</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=redis" width="50" height="50" alt="Redis" />
+<br><strong>Redis</strong>
+</td>
+</tr>
+</table>
+
+### 🗄️ **Data Storage & Processing**
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL" />
+<br><strong>PostgreSQL</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=kafka" width="50" height="50" alt="Apache Kafka" />
+<br><strong>Apache Kafka</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" width="50" height="50" alt="RabbitMQ" />
+<br><strong>RabbitMQ</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=elasticsearch" width="50" height="50" alt="Elasticsearch" />
+<br><strong>Elasticsearch</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="50" height="50" alt="Apache Spark" />
+<br><strong>Apache Spark</strong>
+</td>
+</tr>
+</table>
+
+### 🔧 **MLOps & DevOps**
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
 <br><strong>Docker</strong>
 </td>
 <td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><strong>Git</strong>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50" alt="Kubernetes" />
+<br><strong>Kubernetes</strong>
 </td>
 <td align="center" width="16.66%">
-<img src="https://jwt.io/img/pic_logo.svg" width="48" height="48" alt="JWT" />
-<br><strong>JWT</strong>
+<img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS" />
+<br><strong>AWS</strong>
 </td>
 <td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-<br><strong>Nginx</strong>
+<img src="https://skillicons.dev/icons?i=gcp" width="50" height="50" alt="Google Cloud" />
+<br><strong>Google Cloud</strong>
 </td>
 <td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
-<br><strong>Notion</strong>
+<img src="https://skillicons.dev/icons?i=gitlab" width="50" height="50" alt="GitLab CI" />
+<br><strong>GitLab CI</strong>
 </td>
 <td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br><strong>Postman</strong>
+<img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub Actions" />
+<br><strong>GitHub Actions</strong>
 </td>
 </tr>
 </table>
 
 ---
 
-## 📊 **GitHub Statistics**
+## 📊 **Advanced Analytics Dashboard**
 
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=obirikan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=obirikan&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&custom_title=Code%20Analytics&icon_color=00D9FF&title_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" width="100%" />
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=obirikan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=obirikan" alt="GitHub Streak" alt="Top Languages" width="100%" />
-</td>
-<td width="50%">
-<img src="https://github-profile-trophy.vercel.app/?username=obirikan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=3" alt="GitHub Trophies" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obirikan&theme=algolia&hide_border=true&layout=compact&custom_title=Language%20Distribution&title_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="Top Languages" width="100%" />
 </td>
 </tr>
 </table>
-
----
-
-## 🏆 **Top Contributions**
 
 <table>
 <tr>
 <td align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=obirikan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=obirikan" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
 
 ---
 
-## 📈 **Activity Graph**
+## 🎯 **Data Science**
+
+<table>
+
+<tr>
+<td width="50%" align="center">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80">
+<h3>🔬 Research & Analysis</h3>
+<p>• Exploratory Data Analysis (EDA)<br>• A/B Testing & Experimental Design</p>
+</td>
+
+<td width="50%" align="center">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80">
+<h3>🤖 Machine Learning</h3>
+<p>• Supervised & Unsupervised Learnin g<br>• Deep Learning & Neural Networks<br>• Natural Language Processing (NLP)<br>• Computer Vision & Image Processing</p>
+</td>
+</tr>
+</table>
+
+---
+
+<!--
+## 🏗️ **Backend Architecture**
+
+<table>
+<tr>
+<td width="33.33%" align="center">
+<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="70">
+<h3>🏛️ System Design</h3>
+<p>• Microservices Architecture<br>• RESTful & GraphQL APIs<br>• Database Design & Optimization<br>• Distributed Systems</p>
+</td>
+<td width="33.33%" align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70">
+<h3>📊 Data Engineering</h3>
+<p>• ETL/ELT Pipeline Development<br>• Real-time Data Processing<br>• Data Warehousing Solutions<br>• Message Queue Systems</p>
+</td>
+<td width="33.33%" align="center">
+<img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="70">
+<h3>☁️ Cloud & DevOps</h3>
+<p>• Container Orchestration<br>• CI/CD Pipeline Setup<br>• Infrastructure as Code<br>• Monitoring & Logging</p>
+</td>
+</tr>
+</table>
+-->
+---
+
+## 📈 **Data Visualization**
 
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=obirikan&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area_color=1a1b27&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=obirikan&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=1A1B27&area=true&hide_border=true&custom_title=Development%20Activity%20Timeline" width="100%" alt="Activity Graph" />
 </td>
 </tr>
 </table>
 
 ---
 
-## 🎯 **Current Focus**
+## 💻 **Technical Profile**
 
-<table>
-<tr>
-<td width="33.33%" align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
-<h3>🔭 Working On</h3>
-<p>• Advanced ML projects<br>• Full-stack applications<br>• Data visualization tools<br>• Open source contributions</p>
-</td>
-<td width="33.33%" align="center">
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="60">
-<h3>🌱 Learning</h3>
-<p>• Cloud architecture patterns<br>• Deep learning frameworks<br>• Advanced data analytics<br>• DevOps best practices</p>
-</td>
-<td width="33.33%" align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-<h3>💬 Ask Me About</h3>
-<p>• Web development<br>• Data science<br>• Machine learning<br>• Tech career advice</p>
-</td>
-</tr>
-</table>
+<!--```python
+class DataScientistProfile:
+    def __init__(self):
+        self.name = "Kelvin Nana Codjo Obiri"
+        self.role = "Data Scientist & Backend Engineer"
+        self.location = "Ghana 🇬🇭"
+        self.languages = {
+            "primary": ["Python", "JavaScript", "SQL"],
+            "secondary": ["R", "Scala", "Go"]
+        }
+        
+        self.expertise = {
+            "data_science": [
+                "Machine Learning", "Deep Learning", "NLP",
+                "Computer Vision", "Time Series Analysis",
+                "Statistical Modeling", "Data Visualization"
+            ],
+            "backend": [
+                "API Development", "Database Design", "System Architecture",
+                "Microservices", "Message Queues", "Caching Strategies"
+            ],
+            "mlops": [
+                "Model Deployment", "CI/CD for ML", "Model Monitoring",
+                "Feature Stores", "Experiment Tracking", "A/B Testing"
+            ]
+        }
+        
+        self.tools = {
+            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "XGBoost"],
+            "data_tools": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"],
+            "backend_frameworks": ["FastAPI", "Flask", "Express.js", "GraphQL"],
+            "databases": ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"],
+            "cloud_platforms": ["AWS", "GCP", "Azure"],
+            "orchestration": ["Docker", "Kubernetes", "Apache Airflow"]
+        }
+        
+        self.current_focus = [
+            "MLOps & Model Deployment",
+            "Large Language Models (LLMs)",
+            "Real-time Analytics Systems",
+            "Distributed Computing"
+        ]
+        
+    def get_motto(self):
+        return "Turning data into insights, insights into impact! 📊🚀"
 
+# Initialize profile
+profile = DataScientistProfile()
+print(f"Welcome to {profile.name}'s technical universe!")
+print(profile.get_motto())
+``` -->
 ---
 
-## 💻 **Code Summary**
+## 🤝 **Connect & Collaborate**
 
-```javascript
-const kelvin = {
-    pronouns: "he/him",
-    location: "Ghana 🇬🇭",
-    languages: ["Python", "JavaScript", "HTML", "CSS"],
-    frameworks: {
-        frontend: ["React", "Next.js", "React Native", "TailwindCSS"],
-        backend: ["Node.js", "Express", "FastAPI", "Flask"],
-        dataScience: ["TensorFlow", "PyTorch", "Pandas", "NumPy", "Scikit-learn"]
-    },
-    databases: {
-        sql: ["PostgreSQL", "MySQL", "SQLite"],
-        nosql: ["MongoDB", "Firebase", "Redis"]
-    },
-    messageQueues: ["RabbitMQ", "Apache Kafka", "Redis Pub/Sub"],
-    cloud: ["Vercel", "Google Cloud", "Heroku", "Netlify"],
-    tools: ["Docker", "Git", "Nginx", "JWT", "Postman"],
-    currentlyLearning: ["Advanced ML", "Cloud Architecture", "System Design", "Microservices"],
-    openToWork: true,
-    funFact: "I debug with console.log() and I'm proud of it! 🐛"
-};
+<p align="center">
+<img src="https://img.shields.io/badge/Open%20to-Data%20Science%20Projects-brightgreen?style=for-the-badge&logo=python&logoColor=white" alt="Open to DS Projects" />
+<img src="https://img.shields.io/badge/Available%20for-Backend%20Consulting-blue?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend Consulting" />
+<img src="https://img.shields.io/badge/Interested%20in-ML%20Research-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML Research" />
+</p>
 
-console.log("Thanks for visiting my profile! 🚀");
+<p align="center">
+<strong>Let's build something amazing together! 🚀</strong>
+</p>
+
+</div>
